@@ -1,0 +1,4 @@
+wechatinterface
+===============
+
+java wechat interface
